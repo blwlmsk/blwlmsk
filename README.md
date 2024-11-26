@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blwlmsk
-- 👀 I’m interested in CI, MATLAB
-- 🌱 I’m currently learning MATLAB-CI with GutHib-Actions
+- 👀 I’m interested in CI, DevOpy and more ....
+- 🌱 I’m currently learning MATLAB-CI with GitHub-Actions
 - 💞️ I’m looking to collaborate on ... no time at the moment :(
 - 📫 How to reach me ... TODO
 
