@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blwlmsk
-- 👀 I’m interested in CI, DevOpy and more ....
+- 👀 I’m interested in CI, DevOps and more ....
 - 🌱 I’m currently learning GoLang and Python Flask
 - 💞️ I’m looking to collaborate on ... TODO
 - 📫 How to reach me ... TODO
